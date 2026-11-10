@@ -1,0 +1,14 @@
+p {
+    background-color: rgb(0, 255, 0);
+}
+
+html {
+    background-color: blanchedalmond;
+}
+   
+body {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhg-TRr5uDZpd_LKmzMSfCq_-NqiQoz96YRZx2A-A-0QbXTC50ssG800Rwnnj59i999guL1os9WvZs8XbLXfUZeHblj6Q1wWscjmMm4J0pKlA&s");
+}
+.p1 {
+    font-family: "comic sans"
+}
